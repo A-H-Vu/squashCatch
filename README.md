@@ -1,1 +1,1 @@
-# squashCatch
+The catching portion of the Squash experiment
